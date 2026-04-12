@@ -1,0 +1,10 @@
+# Pasta de configurações do VS Code
+.vscode/
+
+# Pasta de saída de build
+output/
+
+# Outros arquivos comuns a ignorar (opcional)
+*.exe
+*.o
+*.log
