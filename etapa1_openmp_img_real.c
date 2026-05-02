@@ -3,7 +3,7 @@
  * Disciplina: DEC107 - Processamento Paralelo
  * Alunos: Gilbert Carmo e Henio Pedro
  *
- * Compilar: gcc -O2 -fopenmp etapa1_openmp.c -o etapa1
+ * Compilar: gcc -O2 -fopenmp etapa1_openmp_img_real.c -o etapa1
  * Usar:     ./etapa1 imagem.pgm saida.pgm
  *
  * Para converter JPG/PNG para PGM:

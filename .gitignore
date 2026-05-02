@@ -8,3 +8,6 @@ output/
 *.exe
 *.o
 *.log
+
+# imagens de teste
+*.pgm
